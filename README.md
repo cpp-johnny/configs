@@ -1,4 +1,4 @@
-# configs
+# My configs
 configs
 
 [.vimrc](https://gist.github.com/cpp-johnny/3746db068cf7920b5e6d77e9b3bbf90f)
